@@ -1,0 +1,38 @@
+{
+  "books": {
+    "2020": {
+      "january": [
+        {
+          "title": "Elon Musk. Biografia twórcy PayPala, Tesli, SpaceX",
+          "author": "Vance Ashlee"
+        },
+        {
+          "title": "Mit przedsiębiorczości",
+          "author": "Gerber Michael E"
+        },
+        {
+          "title": "Uwolniona. Jak wykształcenie odmieniło moje życie",
+          "author": "Westover Tara"
+        }
+      ],
+      "february": [
+        {
+          "title": "Bieguni",
+          "author": "Tokarczuk Olga"
+        },
+        {
+          "title": "Node Cookbook",
+          "author": "David Mark, Clements Mathias Buus, Matteo Collina, Peter Elger"
+        },
+        {
+          "title": "Up & Going",
+          "author": "Kyle Simpson"
+        },
+        {
+          "title": "Domain Modeling Made Functional",
+          "author": "Scott Wlaschin"
+        }
+      ]
+    }
+  }
+}
